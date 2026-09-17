@@ -12,4 +12,4 @@
 > [!NOTE]
 > **Código optimizado** para trabajar directamente con la posición, prescindiendo de la estructura matricial de la versión anterior.
 
-### El código se puede probar en el archivo [`randi7-v2.m`](./randi7-v2.m).
+### Dicho código se encuentra en el archivo [`randi7-v2.m`](./randi7-v2.m).

@@ -10,6 +10,6 @@
 #### Resumen: Realizaremos dos tiradas para obtener un total de 25 combinaciones. Como necesitamos que el número de combinaciones sea un múltiplo de 7, descartamos las últimas 4 combinaciones. En el caso de que se descarten combinaciones, un bucle genera otra nueva tirada. 
 
 > [!NOTE]
-> **Optimización de código:** Código optimizado para trabajar directamente con la posición, prescindiendo de la estructura matricial de la versión anterior.
+> **Código optimizado** para trabajar directamente con la posición, prescindiendo de la estructura matricial de la versión anterior.
 
 ### El código se puede probar en el archivo [`randi7-v2.m`](./randi7.m).
